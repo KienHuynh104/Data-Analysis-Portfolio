@@ -14,4 +14,4 @@ This portfolio showcases selected projects that reflect both my analytical skill
 ___
 
 ## Table of Contents
-- [About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/main/README.md#about-me)
+- [About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#about-me)
