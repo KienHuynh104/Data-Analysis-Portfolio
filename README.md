@@ -11,4 +11,7 @@ This portfolio showcases selected projects that reflect both my analytical skill
 
 [Download my CV (PDF)](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/Kien_Huynh_Data_Analyst_CV.pdf)  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/kien-huynh-)
+___
 
+## Table of Contents
+- [About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/edit/main/README.md#about-me)
