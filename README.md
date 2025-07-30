@@ -15,8 +15,8 @@ ___
 
 ## Table of Contents
 - [About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#about-me)
-- [Education](https://github.com/KienHuynh104/Data-Analysis-Portfolio/edit/main/README.md#education)
-- [Certificates](https://github.com/KienHuynh104/Data-Analysis-Portfolio/edit/main/README.md#certificates)
+- [Education](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#education)
+- [Certificates](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 ___
 ## Education
 RMIT University – Saigon South Campus:  
