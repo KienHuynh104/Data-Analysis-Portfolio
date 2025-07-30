@@ -25,6 +25,24 @@ ___
 ___
 ## II.Portfolio Projects
 ### 1.Python
+#### 1.1 Telco Customer Churn Prediction
+**Situation**: A telecommunications company faced rising customer churn and needed a way to identify at-risk users and improve retention strategies using customer data.
+
+**Task**: Develop a predictive machine learning model using demographic and service usage data to classify customers likely to churn, and identify key contributing factors.
+
+**Skills**:Data preprocessing, handling missing values,addressing class imbalance with SMOTE, feature selection with SelectKBest, model training, cross-validation, hyperparameter tuning, evaluation using F1 Score, precision, recall, business insight extraction from feature importance
+
+**Tools**: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, XGBoost, Random Forest, Logistic Regression, SMOTE (imblearn), GridSearchCV
+
+**Result**  
+- Trained and compared 5 models: Logistic Regression, Decision Tree, Random Forest, SVM, and XGBoost  
+- XGBoost performed best:  
+  - **F1 Score:** 0.801  
+  - **Accuracy:** 79.8%  
+- Identified **Contract Type**, **Paperless Billing**, and **Online Security** as key churn indicators  
+- Recommended offering long-term contracts and improving service engagement to reduce churn
+Code File: [![Open In Colab](https://colab.research.google.com/drive/12HHqjwyeod5iNBoSuLetoh5sZNpKFJU1?usp=sharing)
+Report File: [pdf](https://github.com/KienHuynh104/Portfolio-Projects/blob/81348460446e8369d840eb07a5c1e13f9b1a10ee/Telco-Churn/Churn%20Forecasting%20for%20Telco%20Using%20ML%20Models.pdf)
 ### 2.SQL
 ### 3.Power BI
 ___
