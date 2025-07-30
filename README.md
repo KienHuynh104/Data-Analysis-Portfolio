@@ -15,3 +15,18 @@ ___
 
 ## Table of Contents
 - [About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#about-me)
+- [Education](https://github.com/KienHuynh104/Data-Analysis-Portfolio/edit/main/README.md#education)
+- [Certificates](https://github.com/KienHuynh104/Data-Analysis-Portfolio/edit/main/README.md#certificates)
+___
+## Education
+RMIT University – Saigon South Campus:  
+Bachelor of Business (Economics and Finance), 2017-2020
+- GPA: 3.6/4.0 (Top 5% of graduating cohort)  
+- 25% Tuition Fee Scholarship Recipient
+
+___
+## Certificates
+I believe the most meaningful way to demonstrate skills is through real projects and shared results. While certificates aren’t the focus of my learning, they often come as a natural outcome of exploring and practicing new tools. Most of what I’ve learned has come from self-study and hands-on work, reflecting a strong independent mindset and a commitment to continuous growth.  
+- Data Analysis and Machine Learning with Python – University of Helsinki (MOOC)
+- Google Project Management – [Coursera](https://coursera.org/verify/professional-cert/K94LVZACQXKK)
+- SQL (Advanced) Certificate – [HackerRank](https://www.hackerrank.com/certificates/688bca04fa41)
