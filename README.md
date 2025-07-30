@@ -14,14 +14,14 @@ This portfolio showcases selected projects that reflect both my analytical skill
 ___
 
 ## Table of Contents
-- I.[About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#about-me)
-- II.[Portfolio Projects](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#iiportfolio-projects)
-  - [Python](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#1python)
-  - [SQL](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#2sql)
-  - [Power BI](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#3power-bi)
-- III.[Education](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#education)
-- IV.[Certificates](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- V.[Contacts](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#vcontacts)
+- I.[About Me](#about-me)
+- II.[Portfolio Projects](#iiportfolio-projects)
+  - [Python](#1python)
+  - [SQL](#2sql)
+  - [Power BI](#3power-bi)
+- III.[Education](#education)
+- IV.[Certificates](#certificates)
+- V.[Contacts](#vcontacts)
 ___
 ## II.Portfolio Projects
 ### 1.Python
