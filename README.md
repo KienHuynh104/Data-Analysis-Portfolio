@@ -40,8 +40,8 @@ ___
   - **F1 Score:** 0.801  
   - **Accuracy:** 79.8%  
 - Identified **Contract Type**, **Paperless Billing**, and **Online Security** as key churn indicators  
-- Recommended offering long-term contracts and improving service engagement to reduce churn
-Code File: [![Open In Colab](https://colab.research.google.com/drive/12HHqjwyeod5iNBoSuLetoh5sZNpKFJU1?usp=sharing)
+- Recommended offering long-term contracts and improving service engagement to reduce churn  
+Code File: [Open In Colab](https://colab.research.google.com/drive/12HHqjwyeod5iNBoSuLetoh5sZNpKFJU1?usp=sharing)  
 Report File: [pdf](https://github.com/KienHuynh104/Portfolio-Projects/blob/81348460446e8369d840eb07a5c1e13f9b1a10ee/Telco-Churn/Churn%20Forecasting%20for%20Telco%20Using%20ML%20Models.pdf)
 ### 2.SQL
 ### 3.Power BI
