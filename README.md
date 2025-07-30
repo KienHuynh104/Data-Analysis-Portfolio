@@ -16,7 +16,8 @@ ___
 ## Table of Contents
 - I.[About Me](#about-me)
 - II.[Portfolio Projects](#iiportfolio-projects)
-  - [Python](#1python)
+  - [Python](#1python)  
+    - [Telco Customer Churn Prediction](#11-telco-customer-churn-prediction)
   - [SQL](#2sql)
   - [Power BI](#3power-bi)
 - III.[Education](#education)
@@ -34,7 +35,7 @@ ___
 
 **Tools**: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, XGBoost, Random Forest, Logistic Regression, SMOTE (imblearn), GridSearchCV
 
-**Result**  
+**Result**:  
 - Trained and compared 5 models: Logistic Regression, Decision Tree, Random Forest, SVM, and XGBoost  
 - XGBoost performed best:  
   - **F1 Score:** 0.801  
