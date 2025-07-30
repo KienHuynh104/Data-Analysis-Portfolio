@@ -1,7 +1,7 @@
 # Kien Huynh – Data Analyst Portfolio (Python, SQL, Power BI, Excel)
 ___
 
-## About Me
+## I.About Me
 
 Hi! I'm Kien Huynh, a data analyst with a background in Economics and Finance, and professional experience in business operations and production planning. I graduated from RMIT University with a strong academic record and developed an interest in using data to solve complex business problems. Over the past few years, I’ve managed supply chains and optimized production schedules across hundreds of SKUs.
 
@@ -14,19 +14,36 @@ This portfolio showcases selected projects that reflect both my analytical skill
 ___
 
 ## Table of Contents
-- [About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#about-me)
-- [Education](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#education)
-- [Certificates](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- I.[About Me](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#about-me)
+- II.[Portfolio Projects](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#iiportfolio-projects)
+  - [Python](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#1python)
+  - [SQL](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#2sql)
+  - [Power BI](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#3power-bi)
+- III.[Education](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#education)
+- IV.[Certificates](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- V.[Contacts](https://github.com/KienHuynh104/Data-Analysis-Portfolio/blob/main/README.md#vcontacts)
 ___
-## Education
+## II.Portfolio Projects
+### 1.Python
+### 2.SQL
+### 3.Power BI
+___
+
+## III.Education
 RMIT University – Saigon South Campus:  
 Bachelor of Business (Economics and Finance), 2017-2020
 - GPA: 3.6/4.0 (Top 5% of graduating cohort)  
-- 25% Tuition Fee Scholarship Recipient
-
+- 25% Scholarship Recipient
 ___
-## Certificates
+
+## IV.Certificates
 I believe the most meaningful way to demonstrate skills is through real projects and shared results. While certificates aren’t the focus of my learning, they often come as a natural outcome of exploring and practicing new tools. Most of what I’ve learned has come from self-study and hands-on work, reflecting a strong independent mindset and a commitment to continuous growth.  
 - Data Analysis and Machine Learning with Python – University of Helsinki (MOOC)
 - Google Project Management – [Coursera](https://coursera.org/verify/professional-cert/K94LVZACQXKK)
 - SQL (Advanced) Certificate – [HackerRank](https://www.hackerrank.com/certificates/688bca04fa41)
+___
+
+## V.Contacts
+- LinkedIn: [@kienhuynh](https://www.linkedin.com/in/kien-huynh-)
+- Email: huynhnguyenthuongkien@gmail.com
+- Phone: (+84) 903 810 376
