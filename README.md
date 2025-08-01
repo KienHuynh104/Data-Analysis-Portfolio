@@ -18,6 +18,7 @@ ___
 - II.[Portfolio Projects](#iiportfolio-projects)
   - [Python](#1python)  
     - [Telco Customer Churn Prediction](#11-telco-customer-churn-prediction)
+    - [Order Cancellation Insights – Ride-hailing Operations](#12-order-cancellation-insights--ride-hailing-operations)
   - [SQL](#2sql)
   - [Power BI](#3power-bi)
 - III.[Education](#education)
@@ -43,7 +44,27 @@ ___
 - Identified **Contract Type**, **Paperless Billing**, and **Online Security** as key churn indicators  
 - Recommended offering long-term contracts and improving service engagement to reduce churn  
 Code File: [Open In Colab](https://colab.research.google.com/drive/12HHqjwyeod5iNBoSuLetoh5sZNpKFJU1?usp=sharing)  
-Report File: [pdf](https://github.com/KienHuynh104/Portfolio-Projects/blob/81348460446e8369d840eb07a5c1e13f9b1a10ee/Telco-Churn/Churn%20Forecasting%20for%20Telco%20Using%20ML%20Models.pdf)
+Report File: [PDF](https://github.com/KienHuynh104/Portfolio-Projects/blob/81348460446e8369d840eb07a5c1e13f9b1a10ee/Telco-Churn/Churn%20Forecasting%20for%20Telco%20Using%20ML%20Models.pdf)
+#### 1.2 Order Cancellation Insights – Ride-hailing Operations
+**Situation**: A ride-hailing platform faced a high number of cancelled bookings, leading to operational inefficiencies, poor customer experience, and lost revenue. The company needed a better understanding of cancellation patterns and their root causes.
+
+**Task**: Analyze booking and cancellation data to uncover trends, behaviors, and operational bottlenecks. Provide actionable insights to reduce cancellation rates and improve service reliability.
+
+**Skills**: Data cleaning, merging datasets, exploratory data analysis (EDA), datetime feature engineering, visualization of time-based trends, categorical analysis, root cause identification, business insight generation
+
+**Tools**: Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook  
+
+**Result**:
+- Identified key cancellation triggers such as:
+  - Long ETA estimates
+  - Peak-hour demand with driver shortages
+  - Incomplete driver assignment
+- Visualized hourly cancellation patterns and user wait time distribution
+- Recommended operational improvements:
+  - Dynamic driver allocation during peak hours
+  - Better ETA communication
+  - Incentives for drivers to accept rides faster
+Code File: [Open In Colab](https://colab.research.google.com/drive/1WBYSPK4ZMQmemUXx0doPVDN52kMinLo6?usp=share_link)  
 ### 2.SQL
 ### 3.Power BI
 ___
