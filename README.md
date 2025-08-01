@@ -20,6 +20,7 @@ ___
     - [Telco Customer Churn Prediction](#11-telco-customer-churn-prediction)
     - [Order Cancellation Insights – Ride-hailing Operations](#12-order-cancellation-insights--ride-hailing-operations)
   - [SQL](#2sql)
+    - [Customer Segmentation Using RFM Model](#21-customer-segmentation-using-rfm-model)
   - [Power BI](#3power-bi)
 - III.[Education](#education)
 - IV.[Certificates](#certificates)
@@ -66,6 +67,23 @@ Report File: [PDF](https://github.com/KienHuynh104/Portfolio-Projects/blob/81348
   - Incentives for drivers to accept rides faster
 Code File: [Open In Colab](https://colab.research.google.com/drive/1WBYSPK4ZMQmemUXx0doPVDN52kMinLo6?usp=share_link)  
 ### 2.SQL
+### 2.1 Customer Segmentation Using RFM Model
+**Situation**: A business was running a year-end sales campaign and needed to segment its large customer base to tailor marketing strategies and improve retention and revenue.
+
+**Task**: Use transactional sales data to segment customers using the RFM (Recency, Frequency, Monetary) model and apply business frameworks (e.g. BCG Matrix) to guide targeted marketing strategies.
+
+**Skills**: SQL querying, RFM scoring using quartiles, data transformation, customer profiling, behavioral clustering, Pareto principle analysis, BCG Matrix adaptation, report visualization
+
+**Tools**: MySQL and Excel
+
+**Result**:
+- Segmented thousands of customers into 16 RFM groups based on purchasing behavior
+- Identified key revenue drivers:
+- Top 3 RFM segments (344, 143, 144) contributed over 30% of total revenue
+- Applied a modified BCG Matrix to categorize customers
+- Visualized GMV contributions by group to support strategic marketing and retention focus  
+Report File: [PDF](https://github.com/KienHuynh104/Portfolio-Projects/blob/23fa7dceb16c8196c5b8c4c1fb480eed4a782833/Customer%20Segmentation%20Using%20RFM%20Model/Customer%20Segmentation%20Report%20Using%20RFM%20Model.pdf)
+
 ### 3.Power BI
 ___
 
