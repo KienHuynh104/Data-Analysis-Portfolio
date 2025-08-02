@@ -34,7 +34,7 @@ ___
 
 **Task**: Develop a predictive machine learning model using demographic and service usage data to classify customers likely to churn, and identify key contributing factors.
 
-**Skills**:Data preprocessing, handling missing values,addressing class imbalance with SMOTE, feature selection with SelectKBest, model training, cross-validation, hyperparameter tuning, evaluation using F1 Score, precision, recall, business insight extraction from feature importance.
+**Skills**: Data preprocessing, handling missing values, addressing class imbalance with SMOTE, feature selection with SelectKBest, model training, cross-validation, hyperparameter tuning, evaluation using F1 Score, precision, recall, business insight extraction from feature importance.
 
 **Tools**: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, XGBoost, Random Forest, Logistic Regression, SMOTE (imblearn), GridSearchCV.
 
