@@ -101,7 +101,7 @@ ___
 **Result**:
 
 - Built a responsive dashboard with slicers for channel, country, age group, and OS
-  - Enabled regional managers to:
+- Enabled regional managers to:
   - Track KPIs monthly (revenue, units, transactions)
   - Drill down by customer segment, city, model, and brand
   - Identify sales patterns by storage size, color, and OS  
